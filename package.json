@@ -16,6 +16,7 @@
   "main": "lib/index.js",
   "module": "lib/main.js",
   "react-native": "lib/main.js",
+  "type": "module",
   "dependencies": {
     "@digitalbazaar/ed25519-signature-2020": "^2.1.0",
     "@digitalbazaar/ed25519-verification-key-2020": "^2.1.1",
